@@ -18,6 +18,16 @@
 <br/>
 <br/>
 
-### GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaxabbos&theme=dark&layout=compact)
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=kaxabbos)](https://github.com/anuraghazra/github-readme-stats)
+![My stats](https://github-readme-stats.vercel.app/api?username=kaxabbos&theme=dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaxabbos&theme=dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaxabbos&theme=dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaxabbos&theme=dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaxabbos&theme=dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaxabbos&theme=dark)
