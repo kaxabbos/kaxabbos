@@ -17,9 +17,7 @@
 
 <hr/>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaxabbos&theme=dark&layout=compact)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaxabbos&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaxabbos&theme=dark)
 
 ![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaxabbos&theme=dark)
 
