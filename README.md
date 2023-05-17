@@ -16,14 +16,13 @@
 
 <hr/>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaxabbos&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaxabbos&theme=darcula)
 
-![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaxabbos&theme=dark)
+![Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaxabbos&theme=darcula)
 
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaxabbos&theme=dark)
-
-![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaxabbos&theme=dark)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaxabbos&theme=dark)
-
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaxabbos&theme=dark)
+<div align="left">
+  
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaxabbos&theme=darcula)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaxabbos&theme=darcula&utcOffset=)
+  
+</div>
