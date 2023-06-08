@@ -23,6 +23,6 @@
 <div align="left">
   
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaxabbos&theme=darcula)
-![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaxabbos&theme=darcula&utcOffset=)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaxabbos&theme=darcula&utcOffset=3)
   
 </div>
