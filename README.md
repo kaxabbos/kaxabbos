@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Abbos</h1>
-<h2 align="center">Java Spring Junior+ Backend Developer</h2>
+<h2 align="center">Java Spring Backend Developer</h2>
 
 
 ### Languages and Tools
